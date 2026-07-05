@@ -47,7 +47,7 @@ Building scalable data pipelines, exploring Agentic AI, and applying Machine Lea
 ## 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,sql" />
+<img src="https://skillicons.dev/icons?i=python,sql" />
 </p>
 
 ---
