@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eyash24" alt="eyash24" /></a> </p>
 
-- 🌱 I’m currently brushing up on my **DSA & DAA**
+- 🌱 I’m currently brushing up on my **DSA & DAA** and learning **Agentic AI**
 
 - 💬 Ask me about **Machine learning**
 
