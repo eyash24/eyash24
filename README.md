@@ -96,16 +96,4 @@ Building scalable data pipelines, exploring Agentic AI, and applying Machine Lea
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=eyash24&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=eyash24&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyash24&layout=compact&theme=tokyonight"/>
-</p>
