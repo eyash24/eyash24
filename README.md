@@ -19,7 +19,7 @@ Building scalable data pipelines, exploring Agentic AI, and applying Machine Lea
 
 - 🎓 B.Tech in Computer Science (AI & ML)
 - 💼 Software Engineer with experience in **Data Engineering, Databricks, dbt, SQL, and Data Migration**
-- 🌱 Currently learning **Agentic AI, DSA & Design and Analysis of Algorithms (DAA)**
+- 🌱 Currently learning **Python Backend using Fastapi**
 - 🤖 Interested in **Machine Learning, Data Engineering, LLMs, and AI Systems**
 - 💬 Ask me about **Python, SQL, Databricks, dbt, Machine Learning, and Data Engineering**
 - 📫 Reach me at **eyash.prasad24@gmail.com**
