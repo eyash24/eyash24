@@ -42,58 +42,5 @@ Building scalable data pipelines, exploring Agentic AI, and applying Machine Lea
 </a>
 </p>
 
----
-
-## 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,sql" />
-</p>
-
----
-
-## ⚙️ Frameworks & Libraries
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas" />
-</p>
-
----
-
-## ☁️ Data Engineering & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=azure,postgres,mysql,git,linux" />
-</p>
-
----
-
-## 🛠️ Tools & Platforms
-
-<p align="left">
-
-<img src="https://cdn.simpleicons.org/databricks/FF3621" width="45" height="45" alt="Databricks"/>
-
-<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="45" height="45" alt="SQL Server"/>
-
-<img src="https://cdn.simpleicons.org/dbt/FF694B" width="45" height="45" alt="dbt"/>
-
-<img src="https://cdn.simpleicons.org/azuredevops/0078D7" width="45" height="45" alt="Azure DevOps"/>
-
-<img src="https://cdn.simpleicons.org/github/181717" width="45" height="45" alt="GitHub"/>
-
-</p>
-
----
-
-## 📚 Currently Exploring
-
-- 🤖 Agentic AI
-- 🧠 Design and Analysis of Algorithms (DAA)
-- 💡 Data Structures & Algorithms (DSA)
-- 🔗 Multi-Agent Systems
-- ⚡ LLM Applications
-
----
 
 
