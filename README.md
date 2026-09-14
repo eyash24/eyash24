@@ -5,12 +5,6 @@
 Building scalable data pipelines, exploring Agentic AI, and applying Machine Learning to solve real-world problems.
 </p>
 
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=eyash24&theme=flat&no-frame=true&margin-w=10" alt="eyash24" />
-</a>
-</p>
-
 ## 🚀 About Me
 
 - 🎓 B.Tech in Computer Science (AI & ML)
